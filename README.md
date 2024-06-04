@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**profluizfer/profluizfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Luiz Fernando, I'm a Mathematics teacher.
 
 - 🔭 I’m currently working on teaching my students how to use GitHub
@@ -13,4 +10,3 @@ My name is Luiz Fernando, I'm a Mathematics teacher.
 - 📫 How to reach me: e-mail or face-to-face conversations. People misunderstand WhatsApp messages too easily.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm pretty capable of being likewise criticized for both doing things and not doing these things.
--->
